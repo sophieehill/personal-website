@@ -15,9 +15,9 @@ education:
     year: 2013
 email: "sophie.eva.hill@gmail.com"
 interests:
-- Political behaviour
-- Political economy
 - Elections
+- Public opinion
+- Political economy
 social:
 - icon: envelope
   icon_pack: fas
