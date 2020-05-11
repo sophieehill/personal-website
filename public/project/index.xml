@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sophie E. Hill</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Applied PoliSci blog</title>
+      <link>/project/applied-polisci/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/applied-polisci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Intervals Simulation</title>
+      <link>/project/shiny-app/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching confidence intervals</title>
+      <link>/project/teaching-cis/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/teaching-cis/</guid>
+      <description>&lt;p&gt;An attempt to cover the basics of confidence intervals in under 5 minutes!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

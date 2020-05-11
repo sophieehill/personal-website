@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Sophie E. Hill</title>
+    <link>/tag/teaching/</link>
+      <atom:link href="/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>/tag/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Confidence Intervals Simulation</title>
+      <link>/project/shiny-app/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/shiny-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching confidence intervals</title>
+      <link>/project/teaching-cis/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/teaching-cis/</guid>
+      <description>&lt;p&gt;An attempt to cover the basics of confidence intervals in under 5 minutes!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/slides/teaching-cis/teaching-cis/">
+
+  <title>Confidence Intervals | Sophie E. Hill</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/black.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous">
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+
+  
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css' : 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script>
+Reveal.initialize({
+    dependencies: [
+            ... 
+        { src: 'plugin/mouse-pointer/mouse-pointer.js', async: true }, 
+    ] 
+});
+</script>
+<div id="a-roadmap" class="section level2">
+<h2>A roadmap…</h2>
+<div style="display: flex;">
+<div>
+<p><img src="traffic_light.png" width="200" /></p>
+</div>
+<div>
+<p><br />
+<br />
+</p>
+<p>How do we <em>interpret</em> confidence intervals?</p>
+<p><br />
+<br />
+</p>
+<p>How do we <em>compute</em> confidence intervals?</p>
+<p><br />
+<br />
+</p>
+<p><em>Why</em> do we need confidence intervals?</p>
+</div>
+</div>
+</div>
+<div id="confidence-interval-for-a-proportion" class="section level2 smaller build">
+<h2>Confidence interval for a proportion</h2>
+<p><span class="math display">\[
+\color{blue}{\text{sample proportion}}  \qquad \color{purple}{\text{critical value}} \qquad \qquad \qquad \qquad \qquad \qquad \]</span></p>
+<p><span class="math display">\[ \color{blue}{\hat{\mathbf{p}} } \qquad \pm \qquad \color{purple}{\mathbf{Z}}_{\color{red}{\alpha} / 2}   \qquad \times  \qquad   \sqrt{ \frac{ \color{blue}{\hat{\mathbf{p}} } ( 1 - \color{blue}{\hat{\mathbf{p}} } )}{\color{green}{\mathbf{n}}} } \]</span></p>
+<p><span class="math display">\[ \qquad \qquad \qquad \color{red}{\text{confidence level}} \qquad  \color{green}{\textrm{sample size}} \]</span></p>
+<p>Let’s estimate the <strong>proportion</strong> of women at HKS:</p>
+<pre class="r"><code># save values
+p &lt;- 26/40
+alpha &lt;- 0.05
+z &lt;- qnorm(alpha/2, lower.tail = FALSE)
+n &lt;- 40
+
+# compute lower and upper bounds of the CI
+### &lt;b&gt;
+ci.lower &lt;- p - z * sqrt( p*(1-p) / n )
+ci.upper &lt;- p + z * sqrt( p*(1-p) / n )
+### &lt;/b&gt;
+print(c(ci.lower, ci.upper))</code></pre>
+<pre><code>## [1] 0.5021883 0.7978117</code></pre>
+</div>
+<div id="interpretation" class="section level2">
+<h2>Interpretation</h2>
+<iframe src="https://sophieehill.shinyapps.io/ci-sims" scrolling="yes" frameborder="0" allow="fullscreen">
+</iframe>
+</div>
+<div id="recap" class="section level2">
+<h2>Recap</h2>
+<div style="display: flex;">
+<div>
+<p><img src="traffic_light.png" width="200" /></p>
+</div>
+<div>
+<p><br />
+<strong>Meaning?</strong></p>
+<blockquote>
+<p>“in the long run, 95% of confidence intervals drawn from repeated samples will cover the true value!”</p>
+</blockquote>
+<p><br />
+<strong>How?</strong></p>
+<p><span class="math display">\[ \color{blue}{\hat{\mathbf{p}} }  \pm  \color{purple}{\mathbf{Z}}_{\color{red}{\alpha} / 2}    \times     \sqrt{ \frac{ \color{blue}{\hat{\mathbf{p}} } ( 1 - \color{blue}{\hat{\mathbf{p}} } )}{\color{green}{\mathbf{n}}} } \]</span></p>
+<p><strong>Why?</strong></p>
+<blockquote>
+<p>to quantify uncertainty!</p>
+</blockquote>
+</div>
+</div>
+</div>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+
+  <script>
+    window.revealPlugins = { dependencies: [
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js', async: true },
+      
+      { src: 'https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js', async: true },
+      
+      { src: '\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js', async: true }
+    ]};
+
+    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };
+    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);
+    Reveal.initialize(revealOptions);
+  </script>
+
+</body>
+</html>
