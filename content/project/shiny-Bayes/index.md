@@ -1,5 +1,5 @@
 ---
-date: "2020-11-26"
+date: "2020-9-26"
 external_link: https://sophieehill.shinyapps.io/bayes_viz/
 image:
   caption: Screenshot of Shiny app
