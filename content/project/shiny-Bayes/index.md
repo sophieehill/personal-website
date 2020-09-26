@@ -4,7 +4,7 @@ external_link: https://sophieehill.shinyapps.io/bayes_viz/
 image:
   caption: Screenshot of Shiny app
   focal_point: Smart
-summary: An app to help students visualize and understand Bayes' rule..
+summary: An app to help students visualize and understand Bayes' rule.
 tags:
 - Teaching
 - Stats
