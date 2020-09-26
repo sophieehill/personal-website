@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Projects"
+title = "Teaching with Shiny"
 subtitle = ""
 
 [content]
@@ -25,13 +25,9 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "Teaching"
-    tag = "Teaching"
-  
-  [[content.filter_button]]
-    name = "Blog"
-    tag = "Blog"
+ # [[content.filter_button]]
+#    name = "Teaching"
+ #   tag = "Teaching"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
