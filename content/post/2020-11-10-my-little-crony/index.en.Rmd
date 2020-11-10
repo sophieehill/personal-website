@@ -17,7 +17,28 @@ image:
 projects: []
 ---
 
+A visualization of the connections between **Tory politicians** and **companies being awarded government contracts during the pandemic** based on reporting by [openDemocracy](https://www.opendemocracy.net/en/dark-money-investigations/), [Byline Times](https://bylinetimes.com/), and more.
 
-<iframe src="/files/crony.html" title="My Little Crony"></iframe>
+<iframe style="border: 0; width:100%; height:600px; overflow:hidden;" src="/files/crony.html" title="My Little Crony"></iframe>
+    
+## Guide
+- *Scroll* to zoom
+- *Drag* to move around
+- *Hover* or *tap* icons and connections for more info
+
+The lines represent:
+
+<span style="color: red;"> &horbar; government contracts</span> \
+<span style="color: blue;">&horbar; political donations</span> \
+<span style="color: grey;">&horbar; other connections (e.g. family/employment)</span> 
+       
+   
+Thicker lines indicate more valuable contracts or donations.
+
+Created by [Sophie E. Hill](https://sophie-e-hill.com/) &bull;
+Code on [Github](https://github.com/sophieehill/my-little-crony) &bull;
+Follow me on [Twitter](https://twitter.com/sophie_e_hill) &bull;
+        
+
 
 
