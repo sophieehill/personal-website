@@ -1,0 +1,23 @@
+---
+title: My Little Crony
+author: Sophie Hill
+date: '2020-11-10'
+slug: my-little-crony
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-11-10T14:21:50-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+<iframe src="/files/crony.html" title="My Little Crony"></iframe>
+
+
