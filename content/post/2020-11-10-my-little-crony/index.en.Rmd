@@ -31,7 +31,7 @@ The lines represent:
 <span style="color: red;"> &horbar; government contracts</span> \
 <span style="color: blue;">&horbar; political donations</span> \
 <span style="color: grey;">&horbar; other connections (e.g. family/employment)</span> 
-       
+
    
 Thicker lines indicate more valuable contracts or donations.
 
