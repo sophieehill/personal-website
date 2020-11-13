@@ -11,7 +11,7 @@ columns = "2"
 +++
 
     
-### [What I Learnt About the Great Procurement Scandal: Building 'My Little Crony'](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/)
+### <i class="far fa-newspaper"></i> [What I Learnt About the Great Procurement Scandal: Building 'My Little Crony'](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/)
 
 13 November 2020    &bull;    _Byline Times_
 
