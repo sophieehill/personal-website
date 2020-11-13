@@ -8,22 +8,22 @@
 [[main]]
   name = "Writing"
   url = "#writing"
-  weight = 10
+  weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 20
+  name = "Shiny"
+  url = "#shiny"
+  weight = 30
   
 [[main]]
   name = "Data"
   url = "#data"
-  weight = 30
+  weight = 40
   
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 40
+  weight = 50
 
 # [[main]]
 #  name = "Publications"
@@ -36,9 +36,9 @@
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 50
+    weight = 60
     
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
