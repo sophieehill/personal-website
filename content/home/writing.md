@@ -18,6 +18,8 @@ columns = "2"
 > "My hope is that [tools like mine](https://sophieehill.shinyapps.io/my-little-crony/) can help citizens to make sense of complex and fast-unfolding stories and – above all – that greater transparency will fuel action, not apathy." 
 
 
+
+
 #### <i class="far fa-newspaper"></i> [Parties have failed voters — but they are still our best hope](https://ukandeu.ac.uk/parties-have-failed-voters-but-they-are-still-our-best-hope/)
 
 12 December 2019 &nbsp; &bull; &nbsp; _UK in a Changing Europe_
