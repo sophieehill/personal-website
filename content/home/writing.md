@@ -11,7 +11,7 @@ columns = "2"
 +++
 
     
-[What I Learnt About the Great Procurement Scandal: Building 'My Little Crony'](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/)
+## [What I Learnt About the Great Procurement Scandal: Building 'My Little Crony'](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/)
 
 13 November 2020
 
@@ -20,7 +20,7 @@ _Byline Times_
 > "My hope is that [tools like mine](https://sophieehill.shinyapps.io/my-little-crony/) can help citizens to make sense of complex and fast-unfolding stories and – above all – that greater transparency will fuel action, not apathy." 
 
 
-[Parties have failed voters — but they are still our best hope](https://ukandeu.ac.uk/parties-have-failed-voters-but-they-are-still-our-best-hope/)
+## [Parties have failed voters — but they are still our best hope](https://ukandeu.ac.uk/parties-have-failed-voters-but-they-are-still-our-best-hope/)
 
 12 December 2019
 
