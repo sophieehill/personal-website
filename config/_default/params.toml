@@ -113,7 +113,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "headshot.jpeg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "sophie_e_hill"
@@ -265,6 +265,8 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  
+  
 
 ############################
 ## Content Management System
