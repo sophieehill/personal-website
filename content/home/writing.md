@@ -9,9 +9,6 @@ weight = 20  # Order that this section will appear in.
 # Choose how many columns the section has. Valid values: 1 or 2.
 columns = "1"
 
-[spacing]
-# Customize the section spacing. Order is top, right, bottom, left.
-padding: ["20px", "0", "20px", "0"]
 +++
     
 # Writing
