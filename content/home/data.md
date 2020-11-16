@@ -2,15 +2,15 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 weight = 40  # Order that this section will appear in.
+title = "Data"
 
 # ... Put Your Section Options Here (title etc.) ...
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 +++
 
-# Data
 
 ### European Social Survey  
 
