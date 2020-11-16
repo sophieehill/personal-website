@@ -8,6 +8,21 @@
   <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'G-02SRJFZNJJ', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  
 
   
   
@@ -26,7 +41,7 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/">
+  <link rel="alternate" hreflang="en-us" href="https://determined-panini-a6e122.netlify.app/project/">
 
   
 
@@ -204,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02SRJFZNJJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-02SRJFZNJJ', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -218,7 +271,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/project/">
+  <link rel="canonical" href="https://determined-panini-a6e122.netlify.app/project/">
 
   
   
@@ -228,21 +281,20 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@sophie_e_hill">
   <meta property="twitter:creator" content="@sophie_e_hill">
   
   <meta property="og:site_name" content="Sophie E. Hill">
-  <meta property="og:url" content="/project/">
+  <meta property="og:url" content="https://determined-panini-a6e122.netlify.app/project/">
   <meta property="og:title" content="Projects | Sophie E. Hill">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=""><meta property="og:image" content="https://determined-panini-a6e122.netlify.app/img/headshot.jpeg">
+  <meta property="twitter:image" content="https://determined-panini-a6e122.netlify.app/img/headshot.jpeg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-05-05T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-11-09T00:00:00&#43;00:00">
   
 
   
@@ -358,7 +410,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#writing"><span>Writing</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#shiny"><span>Shiny</span></a>
         </li>
 
         
@@ -388,6 +469,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#data"><span>Data</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
         </li>
 
         
@@ -509,10 +619,55 @@
       
     
     <div>
+      <h2><a href="https://sophieehill.shinyapps.io/my-little-crony/" target="_blank" rel="noopener">My Little Crony</a></h2>
+      <div class="article-style">
+        
+          Visualizing links between Tory politicians and firms that won contracts during the pandemic
+        
+      </div>
+    </div>
+  
+    
+    
+    
+      
+      
+    
+    <div>
+      <h2><a href="https://sophieehill.shinyapps.io/z-score-viz/" target="_blank" rel="noopener">Z-score visualization</a></h2>
+      <div class="article-style">
+        
+          An app to help students understand z-scores.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+      
+      
+    
+    <div>
       <h2><a href="https://sophieehill.shinyapps.io/ci-sims/" target="_blank" rel="noopener">Confidence Intervals Simulation</a></h2>
       <div class="article-style">
         
           A simulation app to help students understand and interpret confidence intervals.
+        
+      </div>
+    </div>
+  
+    
+    
+    
+      
+      
+    
+    <div>
+      <h2><a href="https://sophieehill.shinyapps.io/base-rate-viz/" target="_blank" rel="noopener">Base Rate Fallacy</a></h2>
+      <div class="article-style">
+        
+          An app to help students understand the "base rate fallacy".
         
       </div>
     </div>
@@ -654,16 +809,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

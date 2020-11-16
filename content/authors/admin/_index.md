@@ -31,4 +31,6 @@ social:
 title: Sophie E. Hill
 ---
 
-My research lies at the intersection of political economy and political behaviour. I am interested in the ways that structural economic changes -- like the rise of the "knowledge economy" -- have reshaped the political landscape across a wide range of rich democracies.
+My research lies at the intersection of political economy and political behaviour. I am interested in the ways that structural economic changes -- like the rise of the "knowledge economy" -- have reshaped the political landscape across a wide range of rich democracies. 
+
+[<i class="fas fa-download"></i> Download my CV.](static/files/cv.pdf)

@@ -8,6 +8,21 @@
   <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'G-02SRJFZNJJ', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+  
 
   
   
@@ -26,7 +41,7 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/">
+  <link rel="alternate" hreflang="en-us" href="https://determined-panini-a6e122.netlify.app/">
 
   
 
@@ -204,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-02SRJFZNJJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-02SRJFZNJJ', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -220,7 +273,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/">
+  <link rel="canonical" href="https://determined-panini-a6e122.netlify.app/">
 
   
   
@@ -230,21 +283,20 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@sophie_e_hill">
   <meta property="twitter:creator" content="@sophie_e_hill">
   
   <meta property="og:site_name" content="Sophie E. Hill">
-  <meta property="og:url" content="/">
+  <meta property="og:url" content="https://determined-panini-a6e122.netlify.app/">
   <meta property="og:title" content="Sophie E. Hill">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content=""><meta property="og:image" content="https://determined-panini-a6e122.netlify.app/img/headshot.jpeg">
+  <meta property="twitter:image" content="https://determined-panini-a6e122.netlify.app/img/headshot.jpeg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2018-06-28T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
   
 
   
@@ -255,10 +307,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "/?q={search_term_string}",
+    "target": "https://determined-panini-a6e122.netlify.app/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "/"
+  "url": "https://determined-panini-a6e122.netlify.app/"
 }
 </script>
 
@@ -374,7 +426,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#writing" data-target="#writing"><span>Writing</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#shiny" data-target="#shiny"><span>Shiny</span></a>
         </li>
 
         
@@ -404,6 +485,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#data" data-target="#data"><span>Data</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Blog</span></a>
         </li>
 
         
@@ -636,6 +746,8 @@
     <h1>Biography</h1>
 
     <p>My research lies at the intersection of political economy and political behaviour. I am interested in the ways that structural economic changes &ndash; like the rise of the &ldquo;knowledge economy&rdquo; &ndash; have reshaped the political landscape across a wide range of rich democracies.</p>
+<p>
+<a href="static/files/cv.pdf"><i class="fas fa-download"></i> Download my CV.</a></p>
 
 
     <div class="row">
@@ -725,7 +837,70 @@
   
   
 
-  <section id="projects" class="home-section wg-portfolio   "  >
+  <section id="writing" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Writing</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <h4 id="i-classfar-fa-newspaperi-what-i-learnt-about-the-great-procurement-scandal-building-my-little-cronyhttpsbylinetimescom20201113what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony"><i class="far fa-newspaper"></i> 
+<a href="https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/" target="_blank" rel="noopener">What I Learnt About the Great Procurement Scandal: Building &lsquo;My Little Crony&rsquo;</a></h4>
+<p>13 November 2020   •   <em>Byline Times</em></p>
+<blockquote>
+<p>&ldquo;My hope is that 
+<a href="https://sophieehill.shinyapps.io/my-little-crony/" target="_blank" rel="noopener">tools like mine</a> can help citizens to make sense of complex and fast-unfolding stories and – above all – that greater transparency will fuel action, not apathy.&rdquo;</p>
+</blockquote>
+<h4 id="i-classfar-fa-newspaperi-parties-have-failed-voters--but-they-are-still-our-best-hopehttpsukandeuacukparties-have-failed-voters-but-they-are-still-our-best-hope"><i class="far fa-newspaper"></i> 
+<a href="https://ukandeu.ac.uk/parties-have-failed-voters-but-they-are-still-our-best-hope/" target="_blank" rel="noopener">Parties have failed voters — but they are still our best hope</a></h4>
+<p>12 December 2019   •   <em>UK in a Changing Europe</em></p>
+<blockquote>
+<p>&ldquo;To borrow Schattschneider’s famous phrase: moving beyond the Brexit gridlock is unthinkable save in terms of parties. But with political trust falling and alienation growing, the question remains: will the parties rise to this challenge before it is too late?&rdquo;</p>
+</blockquote>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="shiny" class="home-section wg-portfolio   "  >
     <div class="container">
       
 
@@ -741,8 +916,8 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
 
-    <h1>Teaching with Shiny</h1>
-    
+    <h1>Shiny apps</h1>
+    <p>Interactive apps built in R with Shiny</p>
 
   </div>
   <div class="col-12 col-lg-8">
@@ -766,9 +941,133 @@
 
       
       
+      <div class="project-toolbar">
+        <div class="project-filters">
+          <div class="btn-toolbar">
+            <div class="btn-group flex-wrap">
+              
+                
+                
+                
+                  
+                
+                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Teaching" class="btn btn-primary btn-lg">Teaching</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Data-visualization" class="btn btn-primary btn-lg">Data visualization</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Networks" class="btn btn-primary btn-lg">Networks</a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
     
 
     <div class="isotope projects-container js-layout-masonry ">
+      
+
+        
+        
+        
+          
+          
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Data-visualization js-id-Networks">
+  <div class="card">
+    
+    
+    <a href="https://sophieehill.shinyapps.io/my-little-crony/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/shiny-my-little-crony/featured_hud30b5c49f7f22e5b294ed1958438fc0b_320339_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://sophieehill.shinyapps.io/my-little-crony/" target="_blank" rel="noopener">My Little Crony</a></h4>
+      
+      <div class="article-style">
+        <p>Visualizing links between Tory politicians and firms that won contracts during the pandemic</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+          
+          
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Teaching js-id-Stats">
+  <div class="card">
+    
+    
+    <a href="https://sophieehill.shinyapps.io/z-score-viz/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/shiny-z-score/featured_hue082dffdfe99b06ef819d62e4fedcde0_145375_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://sophieehill.shinyapps.io/z-score-viz/" target="_blank" rel="noopener">Z-score visualization</a></h4>
+      
+      <div class="article-style">
+        <p>An app to help students understand z-scores.</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
       
 
         
@@ -807,6 +1106,52 @@
       
       <div class="article-style">
         <p>A simulation app to help students understand and interpret confidence intervals.</p>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+        
+
+      
+
+        
+        
+        
+          
+          
+        
+
+        
+          
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Teaching js-id-Stats">
+  <div class="card">
+    
+    
+    <a href="https://sophieehill.shinyapps.io/base-rate-viz/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/shiny-base-rate/featured_hufd3cb58c920240a2dd23a280cc648f7c_69457_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://sophieehill.shinyapps.io/base-rate-viz/" target="_blank" rel="noopener">Base Rate Fallacy</a></h4>
+      
+      <div class="article-style">
+        <p>An app to help students understand the &ldquo;base rate fallacy&rdquo;.</p>
       </div>
       
     </div>
@@ -925,6 +1270,177 @@
 
     </div>
   
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="posts" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Posts</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Nov 10, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/post/my-little-crony/">My Little Crony</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>A visualization of the connections between UK politicians and companies being awarded government contracts during the pandemic</p>
+  </div>
+  
+
+  
+
+</div>
+
+      
+    
+
+    
+
+  </div>
 </div>
 
     </div>
@@ -1193,16 +1709,6 @@
   
   <div class="container">
     <footer class="site-footer">
-  
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
   
 
   <p class="powered-by">

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data visualization | Sophie E. Hill</title>
+    <link>https://determined-panini-a6e122.netlify.app/tag/data-visualization/</link>
+      <atom:link href="https://determined-panini-a6e122.netlify.app/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://determined-panini-a6e122.netlify.app/img/headshot.jpeg</url>
+      <title>Data visualization</title>
+      <link>https://determined-panini-a6e122.netlify.app/tag/data-visualization/</link>
+    </image>
+    
+    <item>
+      <title>My Little Crony</title>
+      <link>https://determined-panini-a6e122.netlify.app/project/shiny-my-little-crony/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://determined-panini-a6e122.netlify.app/project/shiny-my-little-crony/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
