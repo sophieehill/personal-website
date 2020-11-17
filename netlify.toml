@@ -26,5 +26,13 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = '''
-    default-src * 'self' data: 'unsafe-inline' 'unsafe-eval' https://*.googleapis/*/ https://*.fontawesome.com/*/ https://*.google.com/*/ https://*.platform.twitter.com/*/  https://*.google-analytics.com/*/ https://*.d33wubrfki0l68.cloudfront.net/*/ https://*.cdnjs.cloudflare.com/*/; 
+    default-src * 'self' 'unsafe-inline' 'unsafe-eval' https://*.googleapis/*/ https://*.fontawesome.com/*/ https://*.google.com/*/ https://*.platform.twitter.com/*/  https://*.google-analytics.com/*/ https://*.d33wubrfki0l68.cloudfront.net/*/ https://*.cdnjs.cloudflare.com/*/; 
     '''
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, s-max-age=604800"
