@@ -30,6 +30,8 @@ My Little Crony has been cited in the [House of Commons](https://hansard.parliam
 - *Scroll* to zoom
 - *Drag* to move around
 - *Hover* or *tap* icons and connections for more info
+- Use the *drop down menu* to select highlight particular nodes
+
 
 The lines represent:
 
@@ -42,7 +44,7 @@ Thicker lines indicate more valuable contracts or donations.
 
 Created by [Sophie E. Hill](https://sophie-e-hill.com/) &bull;
 Code on [Github](https://github.com/sophieehill/my-little-crony) &bull;
-Follow me on [Twitter](https://twitter.com/sophie_e_hill) &bull;
+Follow me on [Twitter](https://twitter.com/sophie_e_hill) 
         
 
 
