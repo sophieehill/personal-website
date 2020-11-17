@@ -27,7 +27,7 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = '''
     Content-Security-Policy: 
-    default-src * 'self' 'unsafe-inline' 'unsafe-eval' *.fontawesome.com www.google.com platform.twitter.com syndication.twitter.com https://www.google-analytics.com cdnjs.cloudflare.com; 
-    font-src 'unsafe-inline' fonts.gstatic.com;
-    style-src 'self' 'unsafe-inline' fonts.googleapis.com d33wubrfki0l68.cloudfront.net;
+    default-src * 'self' 'unsafe-inline' 'unsafe-eval' www.google.com platform.twitter.com syndication.twitter.com https://www.google-analytics.com; 
+    font-src 'unsafe-inline' fonts.gstatic.com *.fontawesome.com;
+    style-src 'self' 'unsafe-inline' fonts.googleapis.com *.fontawesome.com d33wubrfki0l68.cloudfront.net cdnjs.cloudflare.com;
     '''
