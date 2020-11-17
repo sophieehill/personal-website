@@ -1,0 +1,39 @@
+---
+title: Pray to Play?
+author: Sophie Hill
+date: '2020-11-16'
+slug: pray-to-play
+categories: []
+tags: ['dataviz'; 'networks']
+subtitle: 'Examining COVID contracts linked to the Plymouth Brethren Christian Church'
+summary: ''
+authors: []
+lastmod: '2020-11-16T21:21:39-05:00'
+featured: no
+draft: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/), this visualization focuses specifically on the government contracts being awarded to firms **linked to a secretive Evangelical Christian sect**.
+
+
+<iframe style="border: 0; width:100%; height:600px; overflow:hidden;" src="/files/pbcc.html"></iframe>
+    
+## Guide
+- *Scroll* to zoom
+- *Drag* to move around
+- *Hover* or *tap* icons and connections for more info
+
+The lines represent:
+
+<span style="color: red;"> &horbar; government contracts</span> \
+<span style="color: grey;">&horbar; other connections (e.g. family/employment)</span> 
+
+   
+Thicker lines indicate more valuable contracts or donations.
+
+        
