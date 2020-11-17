@@ -4,13 +4,12 @@ author: Sophie Hill
 date: '2020-11-16'
 slug: pray-to-play
 categories: []
-tags: ['dataviz'; 'networks']
+tags: ['dataviz', 'networks']
 subtitle: 'Examining COVID contracts linked to the Plymouth Brethren Christian Church'
 summary: ''
 authors: []
 lastmod: '2020-11-16T21:21:39-05:00'
 featured: no
-draft: false
 image:
   caption: ''
   focal_point: ''
