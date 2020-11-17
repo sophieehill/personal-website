@@ -25,14 +25,6 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = '''
-    default-src 'self'; 'unsafe-eval' 'unsafe-inline' www.google.com platform.twitter.com syndication.twitter.com https://www.google-analytics.com
+    default-src 'self'; www.google.com platform.twitter.com syndication.twitter.com https://www.google-analytics.com
     img
-    script-src 'self';
-    object-src 'none';
-    style-src 'self';
-    img-src 'self';
-    media-src 'self';
-    frame-src 'self';
-    font-src 'self';
-    connect-src 'none'
     '''
