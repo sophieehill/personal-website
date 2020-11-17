@@ -5,11 +5,12 @@ date: '2020-11-16'
 slug: pray-to-play
 categories: []
 tags: ['dataviz', 'networks']
-subtitle: 'Examining COVID contracts linked to the Plymouth Brethren Christian Church'
+# subtitle: 'Examining COVID contracts linked to the Plymouth Brethren Christian Church'
 summary: ''
 authors: []
 lastmod: '2020-11-16T21:21:39-05:00'
 featured: no
+draft: false
 image:
   caption: ''
   focal_point: ''
@@ -17,10 +18,12 @@ image:
 projects: []
 ---
 
-Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/), this visualization focuses specifically on the government contracts being awarded to firms **linked to a secretive Evangelical Christian sect**.
+Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/) map, this visualization zooms in on the government contracts being awarded to firms **linked to a secretive Evangelical Christian sect**: the Plymouth Brethren Christian Church.
+
+This map is based on investigative reporting by [Byline Times](https://bylinetimes.com/) and the non-profit group [All the Citizens](https://the-citizens.com/about-us/).
 
 
-<iframe style="border: 0; width:100%; height:600px; overflow:hidden;" src="/files/pbcc.html"></iframe>
+<iframe style="border: 0; width:150%; height:600px; overflow:hidden;" src="/files/pbcc.html"></iframe>
     
 ## Guide
 - *Scroll* to zoom
