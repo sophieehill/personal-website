@@ -23,6 +23,13 @@ projects: []
 A visualization of the connections between **Tory politicians** and **companies being awarded government contracts during the pandemic** based on a wide range of investigative reporting.
 
 
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1325803055590334465')
+```
+
+
+
+
 My Little Crony has been cited in the [House of Commons](https://hansard.parliament.uk/Commons/2020-11-12/debates/D99D4A22-85F6-4297-8FF6-87EDCF67647D/BusinessOfTheHouse?highlight=little%20crony#contribution-FA294117-62BF-4B93-BDBA-86274981214D), on [BBC Radio 4](https://www.bbc.co.uk/sounds/play/m000pdqs) and [LBC](https://www.globalplayer.com/catchup/lbc/uk/46vyD81/
 ), and covered in the [Metro](https://metro.co.uk/2020/11/13/my-little-crony-map-shows-deals-between-government-mps-and-tory-donors-13587900/#metro-comments-container), [City A.M.](https://www.cityam.com/labour-calls-for-probe-into-covid-deals-between-government-and-tory-donors/), and [Byline Times](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/).
 
