@@ -19,13 +19,3 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = '''
-    Content-Security-Policy: default-src * 'self' 'unsafe-inline' 'unsafe-eval' www.google.com platform.twitter.com syndication.twitter.com https://www.google-analytics.com; 
-    font-src fonts.gstatic.com;
-    style-src 'self' fonts.googleapis.com;
-    '''
