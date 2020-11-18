@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/) map, this visualization zooms in on the government contracts being awarded to firms **linked to a secretive Evangelical Christian sect**: the Plymouth Brethren Christian Church.
+Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/) map, this visualization zooms in on the government contracts being awarded to firms **linked to an Evangelical Christian sect**: the Plymouth Brethren Christian Church.
 
 This map is based on investigative reporting by [Byline Times](https://bylinetimes.com/) and the non-profit group [All the Citizens](https://the-citizens.com/about-us/).
 
