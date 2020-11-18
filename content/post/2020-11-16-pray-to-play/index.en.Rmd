@@ -23,7 +23,7 @@ projects: []
 
 Following on from the original [My Little Crony](https://www.sophie-e-hill.com/post/my-little-crony/) map, this visualization zooms in on the government contracts being awarded to firms **linked to an Evangelical Christian sect**: the Plymouth Brethren Christian Church.
 
-This map is based on investigative reporting by [Byline Times](https://bylinetimes.com/) and the non-profit group [All the Citizens](https://the-citizens.com/about-us/).
+Investigative reporting by [Byline Times](https://bylinetimes.com/2020/11/18/plymouth-exclusive-brethren-ppe-contracts-uk-government/) and the non-profit group [All the Citizens](https://twitter.com/allthecitizens/status/1329069371709222913?s=20) has uncovered **21 UK companies** that appear to have links to the Plymouth Brethren, which have won at least **49 Covid-related government contracts** since March, **worth as much as £1.1 billion**.
 
 
 <p align="center"><iframe style="border: 0; width:100%; height:700px; overflow:hidden;" src="/files/pbcc.html"></iframe></p>
@@ -42,4 +42,3 @@ The lines represent:
    
 Thicker lines indicate more valuable contracts or donations.
 
-        
