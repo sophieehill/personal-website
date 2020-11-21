@@ -1,0 +1,62 @@
+---
+title: My Little Crony
+author: Sophie Hill
+date: '2020-11-10'
+slug: my-little-crony
+categories: []
+tags: ["dataviz", "networks"]
+subtitle: ''
+summary: 'A visualization of the connections between UK politicians and companies being awarded government contracts during the pandemic'
+authors: []
+lastmod: '2020-11-10T14:21:50-05:00'
+featured: no
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image: 
+  caption: ""
+  focal_point: ""
+  preview_only: true
+projects: []
+---
+
+A visualization of the connections between **Tory politicians** and **companies being awarded government contracts during the pandemic** based on a wide range of investigative reporting.
+
+My Little Crony has been cited in the [House of Commons](https://hansard.parliament.uk/Commons/2020-11-12/debates/D99D4A22-85F6-4297-8FF6-87EDCF67647D/BusinessOfTheHouse?highlight=little%20crony#contribution-FA294117-62BF-4B93-BDBA-86274981214D), on [BBC Radio 4](https://www.bbc.co.uk/sounds/play/m000pdqs) and [LBC](https://www.globalplayer.com/catchup/lbc/uk/46vyD81/
+), and covered in the [Metro](https://metro.co.uk/2020/11/13/my-little-crony-map-shows-deals-between-government-mps-and-tory-donors-13587900/#metro-comments-container), [City A.M.](https://www.cityam.com/labour-calls-for-probe-into-covid-deals-between-government-and-tory-donors/), and [Byline Times](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/).
+
+
+
+<div id="container">
+
+<p align="center"><iframe style="border: 0; display:block; width:100%; height:100vh; overflow:hidden;" allow="fullscreen" src="/files/crony.html" title="My Little Crony"></iframe></p>
+
+ <div>
+    <button class="button">Click me to fullscreen the iframe</button>
+  </div>
+</div>
+
+    
+## Guide
+- *Scroll* to zoom
+- *Drag* to move around
+- *Hover* or *tap* icons and connections for more info
+- Use the *drop down menu* to select highlight particular nodes
+
+
+The lines represent:
+
+<span style="color: red;"> &horbar; government contracts</span> \
+<span style="color: blue;">&horbar; political donations</span> \
+<span style="color: grey;">&horbar; other connections (e.g. family/employment)</span> 
+
+   
+Thicker lines indicate more valuable contracts or donations.
+
+Created by [Sophie E. Hill](https://sophie-e-hill.com/) &bull;
+Code on [Github](https://github.com/sophieehill/my-little-crony) &bull;
+Follow me on [Twitter](https://twitter.com/sophie_e_hill) 
+        
+
+
+
