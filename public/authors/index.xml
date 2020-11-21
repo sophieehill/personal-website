@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Sophie E. Hill</title>
-    <link>https://determined-panini-a6e122.netlify.app/authors/</link>
-      <atom:link href="https://determined-panini-a6e122.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sophie-e-hill.com/authors/</link>
+      <atom:link href="https://sophie-e-hill.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://determined-panini-a6e122.netlify.app/img/headshot.jpeg</url>
+      <url>https://sophie-e-hill.com/img/headshot.jpeg</url>
       <title>Authors</title>
-      <link>https://determined-panini-a6e122.netlify.app/authors/</link>
+      <link>https://sophie-e-hill.com/authors/</link>
     </image>
     
   </channel>

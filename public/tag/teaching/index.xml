@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | Sophie E. Hill</title>
-    <link>https://determined-panini-a6e122.netlify.app/tag/teaching/</link>
-      <atom:link href="https://determined-panini-a6e122.netlify.app/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sophie-e-hill.com/tag/teaching/</link>
+      <atom:link href="https://sophie-e-hill.com/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://determined-panini-a6e122.netlify.app/img/headshot.jpeg</url>
+      <url>https://sophie-e-hill.com/img/headshot.jpeg</url>
       <title>Teaching</title>
-      <link>https://determined-panini-a6e122.netlify.app/tag/teaching/</link>
+      <link>https://sophie-e-hill.com/tag/teaching/</link>
     </image>
     
     <item>
       <title>Z-score visualization</title>
-      <link>https://determined-panini-a6e122.netlify.app/project/shiny-z-score/</link>
+      <link>https://sophie-e-hill.com/project/shiny-z-score/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/project/shiny-z-score/</guid>
+      <guid>https://sophie-e-hill.com/project/shiny-z-score/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confidence Intervals Simulation</title>
-      <link>https://determined-panini-a6e122.netlify.app/project/shiny-cis/</link>
+      <link>https://sophie-e-hill.com/project/shiny-cis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/project/shiny-cis/</guid>
+      <guid>https://sophie-e-hill.com/project/shiny-cis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Base Rate Fallacy</title>
-      <link>https://determined-panini-a6e122.netlify.app/project/shiny-base-rate/</link>
+      <link>https://sophie-e-hill.com/project/shiny-base-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/project/shiny-base-rate/</guid>
+      <guid>https://sophie-e-hill.com/project/shiny-base-rate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayes&#39; Rule Visualization</title>
-      <link>https://determined-panini-a6e122.netlify.app/project/shiny-bayes/</link>
+      <link>https://sophie-e-hill.com/project/shiny-bayes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/project/shiny-bayes/</guid>
+      <guid>https://sophie-e-hill.com/project/shiny-bayes/</guid>
       <description></description>
     </item>
     

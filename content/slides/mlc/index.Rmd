@@ -1,0 +1,42 @@
+---
+title: "Presentation Ninja"
+subtitle: "with xaringan"
+author: "Yihui Xie"
+date: "2016/12/12"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+## My Little Crony
+
+.left-column[ 
+## Guide
+- *Scroll* to zoom
+- *Drag* to move around
+- *Hover* or *tap* icons and connections for more info
+- Use the *drop down menu* to select highlight particular nodes
+
+
+The lines represent:
+
+<span style="color: red;"> &horbar; government contracts</span> \
+<span style="color: blue;">&horbar; political donations</span> \
+<span style="color: grey;">&horbar; other connections (e.g. family/employment)</span> 
+
+   
+Thicker lines indicate more valuable contracts or donations.
+
+Created by [Sophie E. Hill](https://sophie-e-hill.com/) &bull;
+Code on [Github](https://github.com/sophieehill/my-little-crony) &bull;
+Follow me on [Twitter](https://twitter.com/sophie_e_hill) 
+]
+
+.right-column[ 
+
+<p align="center"><iframe style="border: 0; display:block; width:100%; height:100vh; overflow:hidden;" allow="fullscreen" src="/files/crony.html" title="My Little Crony"></iframe></p>
+
+]

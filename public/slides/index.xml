@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Sophie E. Hill</title>
-    <link>https://determined-panini-a6e122.netlify.app/slides/</link>
-      <atom:link href="https://determined-panini-a6e122.netlify.app/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sophie-e-hill.com/slides/</link>
+      <atom:link href="https://sophie-e-hill.com/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>https://determined-panini-a6e122.netlify.app/slides/example/</link>
+      <link>https://sophie-e-hill.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/slides/example/</guid>
+      <guid>https://sophie-e-hill.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -141,22 +141,40 @@ Three
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://determined-panini-a6e122.netlify.app/slides/mlc/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/slides/mlc/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
+      <title>Presentation Ninja</title>
+      <link>https://sophie-e-hill.com/slides/mlc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sophie-e-hill.com/slides/mlc/</guid>
+      <description>
+&lt;script src=&#34;index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;my-little-crony&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;My Little Crony&lt;/h2&gt;
+&lt;p&gt;.left-column[
+## Guide
+- &lt;em&gt;Scroll&lt;/em&gt; to zoom
+- &lt;em&gt;Drag&lt;/em&gt; to move around
+- &lt;em&gt;Hover&lt;/em&gt; or &lt;em&gt;tap&lt;/em&gt; icons and connections for more info
+- Use the &lt;em&gt;drop down menu&lt;/em&gt; to select highlight particular nodes&lt;/p&gt;
+&lt;p&gt;The lines represent:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: red;&#34;&gt; ― government contracts&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color: blue;&#34;&gt;― political donations&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color: grey;&#34;&gt;― other connections (e.g. family/employment)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Thicker lines indicate more valuable contracts or donations.&lt;/p&gt;
+&lt;p&gt;Created by &lt;a href=&#34;https://sophie-e-hill.com/&#34;&gt;Sophie E. Hill&lt;/a&gt; •
+Code on &lt;a href=&#34;https://github.com/sophieehill/my-little-crony&#34;&gt;Github&lt;/a&gt; •
+Follow me on &lt;a href=&#34;https://twitter.com/sophie_e_hill&#34;&gt;Twitter&lt;/a&gt;
+]&lt;/p&gt;
+&lt;p&gt;.right-column[&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+&lt;iframe style=&#34;border: 0; display:block; width:100%; height:100vh; overflow:hidden;&#34; allow=&#34;fullscreen&#34; src=&#34;https://sophie-e-hill.com/files/crony.html&#34; title=&#34;My Little Crony&#34;&gt;
+&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;]&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     

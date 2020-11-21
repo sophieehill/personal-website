@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Sophie E. Hill</title>
-    <link>https://determined-panini-a6e122.netlify.app/post/</link>
-      <atom:link href="https://determined-panini-a6e122.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sophie-e-hill.com/post/</link>
+      <atom:link href="https://sophie-e-hill.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://determined-panini-a6e122.netlify.app/img/headshot.jpeg</url>
+      <url>https://sophie-e-hill.com/img/headshot.jpeg</url>
       <title>Posts</title>
-      <link>https://determined-panini-a6e122.netlify.app/post/</link>
+      <link>https://sophie-e-hill.com/post/</link>
     </image>
     
     <item>
       <title>Pray to Play?</title>
-      <link>https://determined-panini-a6e122.netlify.app/post/pray-to-play/</link>
+      <link>https://sophie-e-hill.com/post/pray-to-play/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/post/pray-to-play/</guid>
+      <guid>https://sophie-e-hill.com/post/pray-to-play/</guid>
       <description>
-&lt;script src=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://sophie-e-hill.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://sophie-e-hill.com/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://sophie-e-hill.com/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Following on from the original &lt;a href=&#34;https://www.sophie-e-hill.com/post/my-little-crony/&#34;&gt;My Little Crony&lt;/a&gt; map, this visualization zooms in on the government contracts being awarded to firms &lt;strong&gt;linked to an Evangelical Christian sect&lt;/strong&gt;: the Plymouth Brethren Christian Church.&lt;/p&gt;
 &lt;p&gt;Investigative reporting by &lt;a href=&#34;https://bylinetimes.com/2020/11/18/plymouth-exclusive-brethren-ppe-contracts-uk-government/&#34;&gt;Byline Times&lt;/a&gt; and the non-profit group &lt;a href=&#34;https://twitter.com/allthecitizens/status/1329069371709222913?s=20&#34;&gt;All the Citizens&lt;/a&gt; has uncovered &lt;strong&gt;21 UK companies&lt;/strong&gt; that appear to have links to the Plymouth Brethren, which have won at least &lt;strong&gt;49 Covid-related government contracts&lt;/strong&gt; since March, &lt;strong&gt;worth as much as £1.1 billion&lt;/strong&gt;.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;iframe style=&#34;border: 0; width:100%; height:700px; overflow:hidden;&#34; src=&#34;https://determined-panini-a6e122.netlify.app/files/pbcc.html&#34;&gt;
+&lt;iframe style=&#34;border: 0; width:100%; height:700px; overflow:hidden;&#34; src=&#34;https://sophie-e-hill.com/files/pbcc.html&#34;&gt;
 &lt;/iframe&gt;
 &lt;/p&gt;
 &lt;div id=&#34;guide&#34; class=&#34;section level2&#34;&gt;
@@ -47,19 +47,19 @@
     
     <item>
       <title>My Little Crony</title>
-      <link>https://determined-panini-a6e122.netlify.app/post/my-little-crony/</link>
+      <link>https://sophie-e-hill.com/post/my-little-crony/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://determined-panini-a6e122.netlify.app/post/my-little-crony/</guid>
+      <guid>https://sophie-e-hill.com/post/my-little-crony/</guid>
       <description>
-&lt;script src=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://determined-panini-a6e122.netlify.app/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://sophie-e-hill.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://sophie-e-hill.com/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://sophie-e-hill.com/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;A visualization of the connections between &lt;strong&gt;Tory politicians&lt;/strong&gt; and &lt;strong&gt;companies being awarded government contracts during the pandemic&lt;/strong&gt; based on a wide range of investigative reporting.&lt;/p&gt;
 &lt;p&gt;My Little Crony has been cited in the &lt;a href=&#34;https://hansard.parliament.uk/Commons/2020-11-12/debates/D99D4A22-85F6-4297-8FF6-87EDCF67647D/BusinessOfTheHouse?highlight=little%20crony#contribution-FA294117-62BF-4B93-BDBA-86274981214D&#34;&gt;House of Commons&lt;/a&gt;, on &lt;a href=&#34;https://www.bbc.co.uk/sounds/play/m000pdqs&#34;&gt;BBC Radio 4&lt;/a&gt; and &lt;a href=&#34;https://www.globalplayer.com/catchup/lbc/uk/46vyD81/&#34;&gt;LBC&lt;/a&gt;, and covered in the &lt;a href=&#34;https://metro.co.uk/2020/11/13/my-little-crony-map-shows-deals-between-government-mps-and-tory-donors-13587900/#metro-comments-container&#34;&gt;Metro&lt;/a&gt;, &lt;a href=&#34;https://www.cityam.com/labour-calls-for-probe-into-covid-deals-between-government-and-tory-donors/&#34;&gt;City A.M.&lt;/a&gt;, and &lt;a href=&#34;https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/&#34;&gt;Byline Times&lt;/a&gt;.&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt;
-&lt;iframe style=&#34;border: 0; display:block; width:100%; height:100vh; overflow:hidden;&#34; allow=&#34;fullscreen&#34; src=&#34;https://determined-panini-a6e122.netlify.app/files/crony.html&#34; title=&#34;My Little Crony&#34;&gt;
+&lt;iframe style=&#34;border: 0; display:block; width:100%; height:700px; overflow:hidden;&#34; allow=&#34;fullscreen&#34; src=&#34;https://sophie-e-hill.com/files/crony.html&#34; title=&#34;My Little Crony&#34;&gt;
 &lt;/iframe&gt;
 &lt;/p&gt;
 &lt;div id=&#34;guide&#34; class=&#34;section level2&#34;&gt;
