@@ -19,10 +19,6 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
-[params]
-  custom_css = ["css/custom.css"]
-  custom_js = ["js/custom.js"]
-
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 

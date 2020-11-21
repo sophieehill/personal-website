@@ -26,15 +26,8 @@ My Little Crony has been cited in the [House of Commons](https://hansard.parliam
 ), and covered in the [Metro](https://metro.co.uk/2020/11/13/my-little-crony-map-shows-deals-between-government-mps-and-tory-donors-13587900/#metro-comments-container), [City A.M.](https://www.cityam.com/labour-calls-for-probe-into-covid-deals-between-government-and-tory-donors/), and [Byline Times](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/).
 
 
-
-<div id="container">
-
 <p align="center"><iframe style="border: 0; display:block; width:100%; height:100vh; overflow:hidden;" allow="fullscreen" src="/files/crony.html" title="My Little Crony"></iframe></p>
 
- <div>
-    <button class="button">Click me to fullscreen the iframe</button>
-  </div>
-</div>
 
     
 ## Guide
