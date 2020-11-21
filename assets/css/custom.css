@@ -1,0 +1,26 @@
+#container {
+  text-align: center;
+  height: 100%;
+}
+
+.button {
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 6px 12px;
+}
+
+.error {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px;
+}
