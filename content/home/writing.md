@@ -14,13 +14,21 @@ columns = "2"
 
 21 November 2020 &nbsp; &bull; &nbsp; _The Guardian_
 
+
 > Under the cover of an emergency, the government awarded £18bn in coronavirus-related contracts during the first six months of the pandemic, most with no competitive tendering processes. Meanwhile contracts totalling £1.5bn have gone to companies with connections to the Conservative party. Call it a “chumocracy” or straightforward incompetence: it’s clear there’s been a woeful lack of transparency when it comes to how taxpayers’ money is spent.
 
-#### <i class="far fa-newspaper"></i> [Will the KnowledgeEconomy Survive the Pandemic?](files/Political_Insight_2020.pdf)
+
+<br>
+
+#### <i class="far fa-newspaper"></i> [Will the Knowledge Economy Survive the Pandemic?](files/Political_Insight_2020.pdf)
 
 19 November 2020 &nbsp; &bull; &nbsp; _Political Insight_
 
+
 > While many highly-skilled white collar workers have been relatively insulated from the economic impact of the pandemic, the sudden transition to remote working has challenged fundamental assumptions about the knowledge economy. Can a geographically dispersed workforce collaborate effectively? How many employees will choose to work from home permanently if their employer allows? Who will be the ‘winners’ and ‘losers’ of this new labour market divide?
+
+
+<br>
 
     
 #### <i class="far fa-newspaper"></i> [What I Learnt About the Great Procurement Scandal: Building 'My Little Crony'](https://bylinetimes.com/2020/11/13/what-i-learnt-about-the-great-procurement-scandal-building-my-little-crony/)
@@ -30,7 +38,7 @@ columns = "2"
 > "My hope is that [tools like mine](https://sophieehill.shinyapps.io/my-little-crony/) can help citizens to make sense of complex and fast-unfolding stories and – above all – that greater transparency will fuel action, not apathy." 
 
 
-
+<br>
 
 #### <i class="far fa-newspaper"></i> [Parties have failed voters — but they are still our best hope](https://ukandeu.ac.uk/parties-have-failed-voters-but-they-are-still-our-best-hope/)
 
